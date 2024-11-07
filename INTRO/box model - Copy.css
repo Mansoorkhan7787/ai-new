@@ -1,0 +1,13 @@
+#box1{
+    height: 300px;
+    width: 700px;
+    border: 2px solid black;
+    margin: 200px auto;
+    padding:100px;
+}
+#para{
+    padding: 100px;
+     background-color: brown; 
+    color: white;
+    text-align: justify;
+}

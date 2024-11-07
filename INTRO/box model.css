@@ -1,13 +1,24 @@
-#box1{
-    height: 300px;
-    width: 700px;
-    border: 2px solid black;
-    margin: 200px auto;
-    padding:100px;
+.one{
+    width: 100px;
+    height: 100px;
+    background-color:red ;
+    position:absolute ;
 }
-#para{
-    padding: 100px;
-     background-color: brown; 
-    color: white;
-    text-align: justify;
+.two{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    /* --6position: static; */
+    left: 100px;
+ 
+}
+.three{
+    width: 100px;
+    height: 100px;
+    background-color:pink ;
+}
+.four{
+    width: 100px;
+    height: 100px;
+    background-color:green ;
 }

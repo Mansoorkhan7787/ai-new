@@ -1,0 +1,24 @@
+div{
+    background-image: url("https://www.shutterstock.com/image-vector/flat-airplane-illustration-view-flying-260nw-443359132.jpg");
+    
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    bottom: 0%;
+    animation: animateffect 4s ease infinite;
+}
+/* div:hover{
+    width: 200px;
+    height: 200px;
+} */
+  @keyframes animateffect {
+    from{
+    
+    left: 0%;
+    }
+    to{
+    right: 0px;
+    top: 0px; 
+    
+    }
+ } 
